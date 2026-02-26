@@ -5,3 +5,6 @@ __pycache__/
 *.wav
 ~/.voxin.pid
 .voxin.pid
+dist/
+build/
+*.egg-info/
